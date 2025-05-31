@@ -1,0 +1,175 @@
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.exe
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.deps.json
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.runtimeconfig.json
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.pdb
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Camara.resources
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Clima.resources
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.PreguntasEHistorial.resources
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Servicios.resources
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Usuario.resources
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.csproj.GenerateResource.cache
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.AssemblyInfoInputs.cache
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.AssemblyInfo.cs
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.csproj.CoreCompileInputs.cache
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\refint\ServicioAgro Jutiapa.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.pdb
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.genruntimeconfig.cache
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ref\ServicioAgro Jutiapa.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.dll.config
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\OpenAI.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.csproj.AssemblyReference.cache
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\Servicio.AEED2C5C.Up2Date
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Controls.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Imaging.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Math.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Video.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Video.DirectShow.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Net.Http.Extensions.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Net.Http.Primitives.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.exe
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.dll.config
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.deps.json
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.runtimeconfig.json
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ServicioAgro Jutiapa.pdb
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Controls.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Imaging.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Math.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Video.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\AForge.Video.DirectShow.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Net.Http.Extensions.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Net.Http.Primitives.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\OpenAI.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.csproj.AssemblyReference.cache
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Camara.resources
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Clima.resources
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.PreguntasEHistorial.resources
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Servicios.resources
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Usuario.resources
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.csproj.GenerateResource.cache
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.AssemblyInfoInputs.cache
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.AssemblyInfo.cs
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.csproj.CoreCompileInputs.cache
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\Servicio.AEED2C5C.Up2Date
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\refint\ServicioAgro Jutiapa.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.pdb
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro Jutiapa.genruntimeconfig.cache
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ref\ServicioAgro Jutiapa.dll
+C:\Users\andru\OneDrive\Desktop\ServicioAgro Jutiapa\ServicioAgro Jutiapa\obj\Debug\net9.0-windows\ServicioAgro_Jutiapa.Properties.Resources.resources
